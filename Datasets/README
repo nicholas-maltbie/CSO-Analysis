@@ -1,0 +1,9 @@
+Datasets from each sensor
+
+This data is a fictitious randomized set of data that is the same size as used in the project. This randomization of the dataset is due to restrictions of sharing the data from our stakeholder. This data is intended to represent how our code and analysis is run.
+
+level    - level of water in pipe leading to outfall site
+velocity - velocity of water in pipe leading to outfall site
+flow     - rate of flow of water in pipe leading to outfall site, derived from level and velocity
+rainfall - amount of rain measured from sensor upstream of the cso site
+outfall_level - Level of water in the outfall site
